@@ -18,8 +18,8 @@ public class GameData {
 	 * BOARD_WIDTH - dlugosc planszy, w polach
 	 * BOARD_HEIGHT - szerokosc planszy, w polach
 	 */
-	public static final int BOARD_WIDTH = 15;
-	public static final int BOARD_HEIGHT = 13;
+	public static final int BOARD_WIDTH = 12;
+	public static final int BOARD_HEIGHT = 10;
 
 	public ArrayList<Player> player;
 
